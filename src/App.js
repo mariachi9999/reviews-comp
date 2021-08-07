@@ -1,4 +1,3 @@
-import logo from './assets/landing.jpeg';
 import './App.css';
 import {
   Route,
